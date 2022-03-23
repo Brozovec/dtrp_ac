@@ -4,7 +4,7 @@ Webhooks = {
     PLAYER_CONNECT_LEAVE_LOG = 'https://discord.com/api/webhooks/933474309622603887/c-71P_ABX4FnlWmoR9LrhbW6Zuxe7Nv1lrQWdB7pstqjk8sfDgCjcNUKQheqqdvkJbyr',
     REQUIRED_SCREENS_LOG = 'https://discord.com/api/webhooks/943918222955126875/IhOn5O_JK8sY3_KPcmoJDPMsLMFdPbL5g6B_7trpumwRwOS4onrb1PNJVj8rY8nWuP9H',
     IMAGE = 'https://cdn.discordapp.com/emojis/889028809955889172.png?size=96',
-    BOTNAME = '😈 DTRP ANTICHEAT 😈'
+    BOTNAME = '😈 TORE ANTICHEAT 😈'
 }
 
 Admin = {
